@@ -21,13 +21,19 @@
 
 ###
 
-<h1 align="center">Hey! Welcome to my world.</h1>
+<h1 align="center">Md. Shadman Shoumik Shaon Pk</h1>
+
+###
+
+<h2 align="center">Full Stack Web Developer</h2>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+
+<br clear="both">
 
 <p align="left">I'm Md. Shadman Shoumik Shaon Pk, a passionate Full Stack Web Developer from [Your Location]. With a strong problem-solving mindset and hands-on experience in building dynamic, scalable applications, I combine technical expertise with a keen eye for detail. I am dedicated to creating innovative and efficient web solutions that drive results, and I thrive in collaborative environments, delivering high-quality projects that exceed expectations.<br><br><br>- 📚 I'm currently learning  Next.js and advanced React.js to build more performant and scalable web applications.<br>- ⚡ In my free time,  I enjoy contributing to open-source projects, solving coding challenges, and exploring new tech trends</p>
 
@@ -62,7 +68,8 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shadmans-World" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shadmans-World&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Shadmans-World&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
