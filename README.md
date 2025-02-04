@@ -78,6 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shadmans-World/Shadmans-World/output/snake.svg" alt="Snake animation" />
+
 
 ###
