@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Shadmans-World)]
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shadmans-World" height="220" alt="streak graph"  />
 </div>
 
 ###
