@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Md. Shadman Shoumik Shaon Pk, a passionate Full Stack Web Developer from [Your Location]. With a strong problem-solving mindset and hands-on experience in building dynamic, scalable applications, I combine technical expertise with a keen eye for detail. I am dedicated to creating innovative and efficient web solutions that drive results, and I thrive in collaborative environments, delivering high-quality projects that exceed expectations.<br><br><br>- 📚 I'm currently learning  Next.js and advanced React.js to build more performant and scalable web applications.<br>- ⚡ In my free time,  I enjoy contributing to open-source projects, solving coding challenges, and exploring new tech trends</p>
+<p align="left">I'm Md. Shadman Shoumik Shaon Pk, a passionate Full Stack Web Developer from Dhaka, Bangladesh. With a strong problem-solving mindset and hands-on experience in building dynamic, scalable applications, I combine technical expertise with a keen eye for detail. I am dedicated to creating innovative and efficient web solutions that drive results, and I thrive in collaborative environments, delivering high-quality projects that exceed expectations.<br><br><br>- 📚 I'm currently learning  Next.js and advanced React.js to build more performant and scalable web applications.<br>- ⚡ In my free time,  I enjoy contributing to open-source projects, solving coding challenges, and exploring new tech trends</p>
 
 ###
 
